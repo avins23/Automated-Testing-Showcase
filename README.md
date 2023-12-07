@@ -1,5 +1,5 @@
-# ESB_Test
-Automation Test for Esensi Solusi Buana
+# Automated Testing Showcase
+A short example of my capabilities in Automated Testing
 
 # Setups
 
